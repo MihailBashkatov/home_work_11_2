@@ -1,3 +1,3 @@
 def get_capital(letters: str):
-    """Return capital letters"""
+    """Возвращает строку с о всеми заглавными буквами"""
     return letters.upper()
